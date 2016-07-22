@@ -1,0 +1,7 @@
+{
+  "short_name": "HollysDestiny",
+  "name": "Holly's Destiny",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "orientation": "landscape"
+}
